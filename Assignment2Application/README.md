@@ -1,0 +1,2 @@
+This project expands on the recommendation system of assignment 1 and the clusers created in the assignment 2 loader to
+display the cluser of a recommended restaurant.  It uses an extensible hash table.
